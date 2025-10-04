@@ -1,4 +1,5 @@
 // Scientific Calculator here we go!
+
 #include <iostream>
 #include <cmath>
 #define pi 3.14159265358979
@@ -175,7 +176,7 @@ double fac(float x)
 
 void welcomepage()
 {
-    cout << "(((((((((((((((::::::::::::::: WELCOME TO YOUR CALCULATOR :::::::::::::::)))))))))))))))" << endl;
+    cout << "(((((((((((((((((((::::::::::::::::: WELCOME TO YOUR CALCULATOR ::::::::::::::::::)))))))))))))))))))))" << endl;
     cout << endl
          << "-------------------------------------------------------------------------------------------------------";
     cout << endl
