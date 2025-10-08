@@ -1,5 +1,4 @@
 // Scientific Calculator here we go!
-
 #include <iostream>
 #include <cmath>
 #define pi 3.14159265358979
